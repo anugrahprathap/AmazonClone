@@ -38,7 +38,7 @@ Note: This is a static representation of the Amazon website and does not include
 
 Feel free to use and modify this Amazon clone for educational and non-commercial purposes. Enjoy exploring and experimenting with the code!
 
-##Screenshots
+## Screenshots:
 
 ![Alt text](Screenshots/amazon.png "")
 
