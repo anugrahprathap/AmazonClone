@@ -37,3 +37,11 @@ Note: This is a static representation of the Amazon website and does not include
 - The layout and design of this clone are not responsive and may not render well on all screen sizes.
 
 Feel free to use and modify this Amazon clone for educational and non-commercial purposes. Enjoy exploring and experimenting with the code!
+
+##Screenshots
+
+![Alt text](Screenshots/amazon.png "")
+
+![Alt text](Screenshots/amazon-1.png "")
+
+![Alt text](Screenshots/amazon-2.png "")
