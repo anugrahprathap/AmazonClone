@@ -1,5 +1,5 @@
-# [Amazon Clone Using HTML and CSS](https://anugrahprathap.github.io/AmazonClone/)
-
+# Amazon Clone Using HTML and CSS
+### [Visit](https://anugrahprathap.github.io/AmazonClone/)
 This is a simple Amazon clone created using HTML and CSS. It serves as a basic representation of the Amazon website layout and design, showcasing a header, hero section, various content boxes, and a footer.
 
 ## Files:
